@@ -1,0 +1,94 @@
+@import "base.css";
+
+.line_space_reserve {
+  margin: 10px auto;
+}
+
+.care_course {
+  background-color: #f6eed1;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.care_course p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 50px;
+}
+
+.contents {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.button {
+  background-image: url("../img/index/select_off.png");
+  background-size: auto 100%;
+  width: 150px;
+  margin: 0 5px;
+  cursor: pointer;
+  float: left;
+}
+
+.button p {
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+
+.button_a {
+  background-image: url("../img/index/select_off.png");
+  background-size: auto 100%;
+  width: 400px;
+  margin: 0 40px;
+  cursor: pointer;
+  float: left;
+}
+
+.button_a p {
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+
+.button_b {
+  background-image: url("../img/index/select_off.png");
+  background-size: auto 100%;
+  width: 300px;
+  margin: 0 10px;
+  cursor: pointer;
+  float: left;
+}
+
+.button_b p {
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+
+#length {
+  margin: 0 10px;
+}
+
+.contents .on {
+  background-image: url("../img/index/select_on.png");
+}
+
+.contents .on p {
+  color: #000;
+}
+
+.content .on {
+  background-image: url("../img/index/select_on.png");
+}
+
+.content .on p {
+  color: #000;
+}

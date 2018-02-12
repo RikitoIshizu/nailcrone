@@ -1,0 +1,143 @@
+@import "base.css";
+
+#wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+#select_box {
+  width: 1000px;
+  margin: 10px auto;
+}
+
+img {
+  border-style: none;
+  display: block;
+  background-repeat: no-repeat;
+}
+
+.left_img {
+  float: left;
+  cursor: pointer;
+}
+
+.center_img {
+  width: 930px;
+  height: 215px;
+  float: left;
+  margin: 0 5px;
+  overflow: hidden;
+}
+
+.center_img ul {
+  width: 1860px;
+}
+
+.center_img ul li {
+  width: 310px;
+  padding: 0 5px;
+  float: left;
+}
+
+.center_img ul li img {
+  width: 100%;
+}
+
+.right_img {
+  float: left;
+  cursor: pointer;
+}
+
+#design {
+	width: 1000px;
+	margin-top: 40px;
+}
+
+
+#photo_area {
+  width: 840px;
+  margin: 40px auto 0 auto;
+}
+
+#photo ul {
+  width: 4680px;
+  margin-left: 0;
+}
+
+#photo_area {
+  width: 840px;
+  margin: 40px auto 0 auto;
+}
+
+#photo_prev {
+  width: 30px;
+  float: left;
+  cursor: pointer;
+}
+
+#photo {
+  width: 780px;
+  float: left;
+  overflow: hidden;
+}
+
+#photo ul {
+  width: 4680px;
+  margin-left: 0;
+}
+
+#photo ul li {
+  width: 780px;
+  height: 520px;
+  float: left;
+}
+
+#photo ul li img {
+  width: 100%;
+}
+
+#photo_next {
+  width: 30px;
+  float: left;
+  cursor: pointer;
+}
+
+#description_area {
+  width: 800px;
+  margin: 40px auto;
+  padding: 40px 0;
+  background-image: url("../img/naildesign/description_bg.png");
+  background-size: 100% 100%;
+  overflow: hidden;
+}
+
+#description {
+  width: 4800px;
+}
+
+#description .text {
+  width: 800px;
+  float: left;
+}
+
+#description .text p {
+  text-align: center;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+#description .text p.index {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 40px;
+}
